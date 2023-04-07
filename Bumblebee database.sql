@@ -1,0 +1,1 @@
+SELECT * FROM `bumble.bee.loan.sys`.category;

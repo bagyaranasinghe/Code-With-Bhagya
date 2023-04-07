@@ -1,0 +1,2 @@
+SELECT * FROM `bumble.bee.loan.sys`.product;
+INSERT INTO product (productid,productname,categoryid,quantity,productprice,description) VALUES ('7','bumblebee','11','5','1500000','buyfirstandpaylateronlinesystem');
